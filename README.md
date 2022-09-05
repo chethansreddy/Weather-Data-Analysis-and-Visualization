@@ -41,5 +41,4 @@ The project contains two file, first contains raw CSV data taken from U.S. Gover
 pandas and seaborn code:
 
 1.weather.csv - data file, generated from U.S. Government's open data website(data.gov)
-2.DSE_19085_chethansreddy_projectcode.ipynb - main file with analysis and plots
-3.DSE_19085_chethansreddy_projectreport.pdf - final report of the project
+2.projectcode.ipynb - main file with analysis and plots
